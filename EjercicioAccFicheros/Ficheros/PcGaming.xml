@@ -1,0 +1,57 @@
+<pcs__gaming>
+  <pc>
+    <id>1</id>
+    <modelo>Aorus</modelo>
+    <marca>Gigabyte</marca>
+    <procesador>
+      <nombre>Intel i7 9700k</nombre>
+      <velocidad>3.5</velocidad>
+    </procesador>
+    <ram>16</ram>
+    <precio>2000</precio>
+  </pc>
+  <pc>
+    <id>2</id>
+    <modelo>Predator x1</modelo>
+    <marca>Acer</marca>
+    <procesador>
+      <nombre> Ryzen 9 5950x</nombre>
+      <velocidad>3.0</velocidad>
+    </procesador>
+    <ram>32</ram>
+    <precio>2499</precio>
+  </pc>
+  <pc>
+    <id>3</id>
+    <modelo>Predator xz</modelo>
+    <marca>Acer</marca>
+    <procesador>
+      <nombre>Intel i9 10900k</nombre>
+      <velocidad>3.7</velocidad>
+    </procesador>
+    <ram>32</ram>
+    <precio>2999</precio>
+  </pc>
+  <pc>
+    <id>4</id>
+    <modelo> X51</modelo>
+    <marca>Alienware</marca>
+    <procesador>
+      <nombre>Intel i9 12900k</nombre>
+      <velocidad>5.0</velocidad>
+    </procesador>
+    <ram>64</ram>
+    <precio>4500</precio>
+  </pc>
+  <pc>
+    <id>5</id>
+    <modelo>ROG G20</modelo>
+    <marca>Asus</marca>
+    <procesador>
+      <nombre>Intel i7 6700</nombre>
+      <velocidad>3.7</velocidad>
+    </procesador>
+    <ram>8</ram>
+    <precio>1399</precio>
+  </pc>
+</pcs__gaming>
